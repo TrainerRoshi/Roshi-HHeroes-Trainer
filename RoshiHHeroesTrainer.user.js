@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Master Roshi's HHeroes Trainer
+// @name         Master Roshi's HHeroes Trainer obf
 // @namespace    Roshi's Super Scripts
 // @version      1.7 alpha
 // @description  Troll Farm implemented.
