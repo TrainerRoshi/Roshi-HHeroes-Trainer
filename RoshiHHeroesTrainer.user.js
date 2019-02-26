@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Master Roshi's HHeroes Trainer obf
 // @namespace    Roshi's Super Scripts
-// @version      1.7 alpha
+// @version      1.8 alpha
 // @description  Troll Farm implemented.
 // @author       Roshi
 // @match        http*://nutaku.haremheroes.com/*
@@ -12,7 +12,7 @@
 // @run-at       document-idle
 // ==/UserScript==
 //var $ = window.jQuery;
-//Did you update? 16:05 Feb 26 2019
+//Did you update? 16:06 Feb 26 2019
 function addJS_Node (text, s_URL, funcToRun, runOnLoad) {
     var D = document;
     var scriptNode = D.createElement ('script');
