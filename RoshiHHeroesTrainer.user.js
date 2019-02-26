@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Master Roshi's HHeroes Trainer obf
 // @namespace    Roshi's Super Scripts
-// @version      1.7.1 alpha
+// @version      1.8.1 alpha
 // @description  Troll Farm implemented.
 // @author       Roshi
 // @match        http*://nutaku.haremheroes.com/*
