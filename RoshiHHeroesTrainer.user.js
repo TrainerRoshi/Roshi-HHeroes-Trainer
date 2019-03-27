@@ -8,6 +8,7 @@
 // @match        http*://nutaku.gayharem.com/*
 // @match        https://www.hentaiheroes.com/*
 // @match        https://www.gayharem.com/*
+// @updateURL    https://raw.githubusercontent.com/TrainerRoshi/Roshi-HHeroes-Trainer/master/RoshiHHeroesTrainer.user.js
 // @require      https://cdn.jsdelivr.net/js-cookie/2.2.0/js.cookie.js
 // @grant        GM_addStyle
 // @run-at       document-idle
