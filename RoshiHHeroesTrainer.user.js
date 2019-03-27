@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Master Roshi's HHeroes Trainer
 // @namespace    Roshi's Super Duper Scripts
-// @version      1.9.0 beta
+// @version      1.9.1 beta
 // @description  Added youtube channel link.
 // @author       Roshi
 // @match        http*://nutaku.haremheroes.com/*
