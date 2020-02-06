@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         Master Roshi's HHeroes Trainer
 // @namespace    Roshi's Super Duper Scripts
-// @version      1.9.16 beta
-// @description  Updated Auto Champions to work with the new site layout.
+// @version      1.9.17 beta
+// @description  The script now works on Eroges.
 // @author       Roshi
 // @match        https://nutaku.haremheroes.com/*
 // @match        https://nutaku.gayharem.com/*
 // @match        https://www.hentaiheroes.com/*
 // @match        https://www.gayharem.com/*
+// @match        https://eroges.hentaiheroes.com/*
 // @updateURL    https://raw.githubusercontent.com/TrainerRoshi/Roshi-HHeroes-Trainer/master/RoshiHHeroesTrainer.user.js
 // @require      https://cdn.jsdelivr.net/js-cookie/2.2.0/js.cookie.js
 // @grant        GM_addStyle
