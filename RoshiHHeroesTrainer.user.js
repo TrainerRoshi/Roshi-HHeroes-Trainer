@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Master Roshi's HHeroes Trainer
 // @namespace    Roshi's Super Duper Scripts
-// @version      1.17.1
+// @version      1.18
 // @description  some trolls don't drop girls
 // @author       Roshi
 // @match        https://nutaku.haremheroes.com/*
