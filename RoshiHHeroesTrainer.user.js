@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Master Roshi's HHeroes Trainer
 // @namespace    Roshi's Super Duper Scripts
-// @version      1.23
-// @description  supports comix harem; thanks for the $5 Stan
+// @version      1.24
+// @description  supports comix harem on Nutaku; thanks for the $5 McQueen
 // @author       Roshi
 // @match        https://nutaku.haremheroes.com/*
 // @match        https://nutaku.gayharem.com/*
@@ -10,6 +10,7 @@
 // @match        https://www.gayharem.com/*
 // @match        https://eroges.hentaiheroes.com/*
 // @match        https://www.comixharem.com/*
+// @match        https://nutaku.comixharem.com/*
 // @updateURL    https://raw.githubusercontent.com/TrainerRoshi/Roshi-HHeroes-Trainer/master/RoshiHHeroesTrainer.user.js
 // @require      https://cdn.jsdelivr.net/js-cookie/2.2.0/js.cookie.js
 // @grant        GM_addStyle
