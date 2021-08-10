@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Master Roshi's HHeroes Trainer
 // @namespace    Roshi's Super Duper Scripts
-// @version      1.35
+// @version      1.36
 // @icon         https://raw.githubusercontent.com/TrainerRoshi/Roshi-HHeroes-Trainer/master/roshi.ico
-// @description  added icon; can hide claimed season rewards; fixed blessings
+// @description  fixed conflict with other script; added pretty eye to hide useless things in season rewards
 // @author       Roshi
 // @match        https://nutaku.haremheroes.com/*
 // @match        https://nutaku.gayharem.com/*
@@ -12,6 +12,7 @@
 // @match        https://eroges.hentaiheroes.com/*
 // @match        https://www.comixharem.com/*
 // @match        https://nutaku.comixharem.com/*
+// @match	       https://test.hentaiheroes.com/*
 // @updateURL    https://raw.githubusercontent.com/TrainerRoshi/Roshi-HHeroes-Trainer/master/RoshiHHeroesTrainer.user.js
 // @require      https://cdn.jsdelivr.net/js-cookie/2.2.0/js.cookie.js
 // @grant        GM_addStyle
