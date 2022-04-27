@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Master Roshi's HHeroes Trainer
 // @namespace    Roshi's Super Duper Scripts
-// @version      1.52
+// @version      1.54
 // @icon         https://raw.githubusercontent.com/TrainerRoshi/Roshi-HHeroes-Trainer/master/roshi.ico
 // @description  moved detailed description to Changelog comment below
 // @author       Roshi
