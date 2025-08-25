@@ -7,8 +7,26 @@
 
 ( ͡~ ͜ʖ ͡°) Merci!
 
-Changelog:
+**Changelog:**
 
+1.83 - 2025.08.23
+
+     - Eye once again hides claimed rewards
+     - Added mouse click and mouse wheel along mouse movement to pause Roshi's script
+     - Fixed Auto Side Quests to prevent annoying pop-ups
+     - Girl Finder correctly finds girls
+     - Fixed auto Adventures and Side Quests
+     - Added Roshi Assign to the Labyrinth team menu to skip Dominator girls due to a game bug
+     ☢ For Hard difficulty, make sure you remove the tier 5 skills of the first seven girls with a pulsating red number or YOU WILL LOSE
+     - In the Labyrinth team building menu, the large white number overlayed indicates the skill points in Tier 5 skills if 4 (legendary) or 5 (mythic)
+     - The best Relic is highlighted based on the priorityMaps; feel free to change them
+     - Champions with Raid timers are fought
+     - Girl Finder compensates for The Playful Lands being named World 21 instead of 20.
+     - Added a green checkmark overlay to completed Love Raid cards
+     - So you know when to stop Gift shopping, added red total affection needed to max all girls owned, and green total value of all the gifts owned
+     - Added eye to hide completed raid cards
+     - Auto Salary just works; turn it on, if you want, and forget about it
+     - Added eye to hide Legendary equipment in the Inventory menu so it is easier to sell gear
 1.82 - 2024.07.24
 
      ** Merci Drag! **
