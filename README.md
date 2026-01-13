@@ -9,6 +9,17 @@
 
 **Changelog:**
 
+1.84 - 2026.01.13 
+
+     ** Gracias Eduardo! **
+     - Minor fix to Labyrinth difficulty selection so it doesn't get stuck
+     - Cleaned up the console messages so they're not too repetitive
+     - Moved the big waifu up a bit so we can appreciate her legs
+     - Added auto Penta Drill.
+     - Removed auto Salary. Girls force you to take their money.
+     - Raid cards show if skins haven't been obtained yet
+     - Troll and Pantheon fights start as intended
+     - Girl Finder correctly finds girls
 1.83 - 2025.08.23
 
      - Eye once again hides claimed rewards
