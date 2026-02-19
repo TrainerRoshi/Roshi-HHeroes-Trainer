@@ -9,6 +9,10 @@
 
 **Changelog:**
 
+1.85 - 2026.02.18
+
+     - Fixed the fetch of girls_data_list so the script doesn't hang on the waifu page
+
 1.84 - 2026.01.13 
 
      ** Gracias Eduardo! **
