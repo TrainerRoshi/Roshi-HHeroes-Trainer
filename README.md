@@ -9,6 +9,15 @@
 
 **Changelog:**
 
+1.86 - 2026.07.01 - Bonne fête du Canada!
+
+     - Within team selection, clicking on the central image of the girl once again sends you to her skills page
+     - Girl Finder correctly finds girls
+     - Small text fix in the top right summary in Leagues
+     - Added back Path of Valor/Glory times on the home page
+     - Auto Places of Power updated to compensate for the new names
+     - Fixed the fetch of girls_data_list so the script doesn't hang on the waifu page
+
 1.85 - 2026.02.18
 
      - Fixed the fetch of girls_data_list so the script doesn't hang on the waifu page
