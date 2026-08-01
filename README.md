@@ -9,6 +9,12 @@
 
 **Changelog:**
 
+1.87 - 2026.08.01
+
+     - Girl Finder can find Clothes too.
+     - Auto Troll can fight only if a girl or clothes are present. Checks every 5 minutes. Great for events, especially Mythic!
+     - The daily crosspromo rewards (30 kobans each) are claimed automatically (every 12 hours) so you can leave uBlock Origin on at all times.
+     
 1.86 - 2026.07.01 - Bonne fête du Canada!
 
      - Within team selection, clicking on the central image of the girl once again sends you to her skills page
